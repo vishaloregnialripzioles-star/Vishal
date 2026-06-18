@@ -7,7 +7,7 @@ import random
 import time
 
 # --- CONFIGURE THESE ---
-BOT_TOKEN = "PUT YOUR BOT TOKEN HERE!"
+BOT_TOKEN = "MTUwNjkzNzY2Njg4MzgxMzQxNg.Gl0STq.zqlyO9YiFICriRhhK65jAwWttM5MrFnF_zkNiw"
 PREFIX = "."
 
 # Nuke Configuration
