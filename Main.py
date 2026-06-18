@@ -124,7 +124,6 @@ async def config(ctx):
     config_msg = f"""
 **Current Configuration:**
 📝 Channel Name: `{CHANNEL_NAME}`
-🎲 Random Names: `{'Enabled'}`
 💬 Message: `{MESSAGE[:50]}...`
 📊 Channels: `{10}`
 📨 Messages: `{10}`
