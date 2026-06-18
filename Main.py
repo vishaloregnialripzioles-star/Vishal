@@ -1,4 +1,4 @@
-# dnezRaider - Custom nuke bot
+# dnezRaider - play nuke bot
 
 import asyncio
 import discord
