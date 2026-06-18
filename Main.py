@@ -124,10 +124,10 @@ async def config(ctx):
     config_msg = f"""
 **Current Configuration:**
 📝 Channel Name: `{CHANNEL_NAME}`
-🎲 Random Names: `{'Enabled' if USE_RANDOM_NAMES else 'Disabled'}`
+🎲 Random Names: `{'Enabled'}`
 💬 Message: `{MESSAGE[:50]}...`
-📊 Channels: `{AMOUNT_OF_CHANNELS}`
-📨 Messages: `{AMOUNT_OF_MESSAGES}`
+📊 Channels: `{10}`
+📨 Messages: `{10}`
     """
     await ctx.send(config_msg)
 
