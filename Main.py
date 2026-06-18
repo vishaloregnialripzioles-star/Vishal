@@ -14,7 +14,7 @@ PREFIX = "."
 CHANNEL_NAME = "nuked"
 MESSAGE = "@everyone @here nuked by dnezero"
 AMOUNT_OF_CHANNELS = 100
-AMOUNT_OF_MESSAGES = 1000
+AMOUNT_OF_MESSAGES = 100
 
 # Random channel name variations (optional - set to None to use CHANNEL_NAME)
 RANDOM_CHANNEL_NAMES = [
@@ -22,7 +22,6 @@ RANDOM_CHANNEL_NAMES = [
     "𝔫𝔲𝔨𝔢𝔡",
     "𝚗𝚞𝚔𝚎𝚍",
     "ɴᴜᴋᴇᴅ",
-    "𝓷𝓾𝓴𝓮𝓭",
     "nuked"
 ]
 
