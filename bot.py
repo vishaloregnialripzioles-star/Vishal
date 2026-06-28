@@ -5,7 +5,7 @@ import asyncio
 from datetime import datetime, timedelta
 
 # ── Config ──────────────────────────────────────────────────────────────
-TOKEN = "MTUxODIwNjI5NzI2MTA4MDY0Ng.G7IJvy.YfCdzFMoTF8j5ybpg8sytvwzVPpOmB__A6WPD8"
+TOKEN = "DISCORD_TOCKEN"
 PREFIX = "."
 
 # ── Bot setup ────────────────────────────────────────────────────────────
